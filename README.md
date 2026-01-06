@@ -35,19 +35,16 @@ A Claude Code plugin that enforces code quality principles, provides deep invest
 ### From GitHub
 
 ```bash
-claude plugin install PoldarnKJ/poldarn-claude-plugin
+claude plugin marketplace add PoldarnKJ/poldarn-claude-plugin
+claude plugin install poldarn
 ```
 
 ### Manual Installation
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/PoldarnKJ/poldarn-claude-plugin.git
-```
-
-2. Load as a local plugin:
-```bash
-claude --plugin-dir ./poldarn-claude-plugin/poldarn
+claude plugin marketplace add ./poldarn-claude-plugin
+claude plugin install poldarn
 ```
 
 ## Usage
