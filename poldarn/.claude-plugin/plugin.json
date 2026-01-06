@@ -1,5 +1,23 @@
 {
   "name": "poldarn",
   "version": "1.0.0",
-  "description": "Code quality guardian enforcing separation of concerns, modular architecture, type-first development, and pragmatic library adoption"
+  "description": "Code quality guardian enforcing separation of concerns, modular architecture, type-first development, and pragmatic library adoption",
+  "author": {
+    "name": "jituanlin",
+    "email": "jituanlin@gmail.com",
+    "url": "https://github.com/PoldarnKJ"
+  },
+  "homepage": "https://github.com/PoldarnKJ/poldarn-claude-plugin",
+  "repository": "https://github.com/PoldarnKJ/poldarn-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "code-quality",
+    "architecture",
+    "typescript",
+    "best-practices",
+    "functional-programming",
+    "type-safety",
+    "vue-query",
+    "technical-debt"
+  ]
 }
